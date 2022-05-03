@@ -1,0 +1,51 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 3
+    },
+    {
+      "title": "Fourth Article",
+      "content": "Another example as well!",
+      "id": 4
+    },
+    {
+      "title": "Best SciFi Comedy",
+      "content": "Spaceballs",
+      "id": 5
+    },
+    
+    {
+    "title": "Best SciFi",
+    "content": "Star Wars: Empire Strikes Back"
+    },
+    {
+    "title": "Best Action SciFi",
+    "content": "The Matrix"
+    },
+    {
+    "title": "Best Fantasy SciFi",
+    "content": "Avatar"
+    },
+    {
+    "title": "Best Horror SciFi",
+    "content": "Aliens"
+    },
+    {
+    "title": "Best Drama/Action SciFi",
+    "content": "Terminator 2: Judgement Day"
+    }
+    
+  ]
+}
